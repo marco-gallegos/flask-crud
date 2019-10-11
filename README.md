@@ -7,3 +7,8 @@
 
 # issues
 - sudo apt-get install libmysqlclient-dev
+- sudo apt install python-dev default-libmysqlclient-dev
+
+# todo
+
+- [ ] uso de peewee ORM
